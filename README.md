@@ -64,4 +64,3 @@ This script is used to generate casual test vectors, and to export them to file,
 This script compares the result of the monmult module with the golden result for all the used test vectors.
 =======
 This script compares the result of the monmult module with the golden result for all the used test vectors.
->>>>>>> 81b66ee30d138eacd842d146f0a692a07573013d
