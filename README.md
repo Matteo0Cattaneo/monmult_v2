@@ -1,5 +1,5 @@
 
-##**Disclaimer**
+**Disclaimer**
 this is my copy for the monmult project
 link to the original repository https://github.com/putoale/monmult_v2
 
@@ -10,7 +10,6 @@ link to the original repository https://github.com/putoale/monmult_v2
 
 ## **Description:**
 
->>>>>>> 81b66ee30d138eacd842d146f0a692a07573013d
 VHDL implementation of Coarsely Integrated Operand Scanning (CIOS) algorithm for Montgomery multiplication. 
 
 ## **Vivado Version:**
