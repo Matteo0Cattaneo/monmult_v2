@@ -1,16 +1,11 @@
-<<<<<<< HEAD
-# Monmult module
-=======
 
-##Disclaimer
+##**Disclaimer**
 this is my copy for the monmult project
 link to the original repository https://github.com/putoale/monmult_v2
->>>>>>> 81b66ee30d138eacd842d146f0a692a07573013d
 
 ## **Description:**
 
-<<<<<<< HEAD
-=======
+
 # Monmult module
 
 ## **Description:**
@@ -67,7 +62,6 @@ Python module collecting all the functions used inside the scripts.
 This script is used to generate casual test vectors, and to export them to file, together with the test vectors taken from reference paper.
 
 ### **tv_res_comp_script.py:**
-<<<<<<< HEAD
 This script compares the result of the monmult module with the golden result for all the used test vectors.
 =======
 This script compares the result of the monmult module with the golden result for all the used test vectors.
